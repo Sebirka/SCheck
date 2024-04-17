@@ -1,0 +1,7 @@
+name: SCheck
+version: '${project.version}'
+main: ban.scheck.SCheck
+api-version: '1.16'
+commands:
+  check:
+  scheck:
